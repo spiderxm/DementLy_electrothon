@@ -50,6 +50,10 @@ The App starts with a registration portal, once registered, the user will input 
 <img src="Credentials3.jpeg"  height="200" width="100" >
 
 
+#### Todo page:
+
+<img src="todo.jpeg"  height="200" width="100" >
+
 #### Financials page:
 
 <img src="Financials1.jpeg"  height="200" width="100" margin="20" >
@@ -57,6 +61,17 @@ The App starts with a registration portal, once registered, the user will input 
 <img src="Financials2.jpeg"  height="200" width="100" >
 
 <img src="Financials3.jpeg"  height="200" width="100" >
+<br>
+
+#### Add on page:
+
+<img src="add1.jpeg"  height="200" width="100" margin="20" >
+
+<img src="add2.jpeg"  height="200" width="100" >
+
+<img src="add3.jpeg"  height="200" width="100" >
+
+<img src="add4.jpeg"  height="200" width="100" >
 <br>
 
 
