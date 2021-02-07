@@ -14,7 +14,7 @@ Our App features pages like People, To- do lists, Credentials, Financials so tha
 ## Working
 
 The App encompasses technologies like
-## Flutter, Dart, Firebase and Microsoft Azure. 
+#### Flutter, Dart, Firebase and Microsoft Azure. 
 The App starts with a registration portal, once registered, the user will input all the relevant information which will be stored in the firebase. It also includes a voice recognition system which will automatically convert speech to text and the data will be stored. Furthermore it envelops a Face Recognition model which will scan and tell the identity of the person, helping them to remember all the lost memories.
 
 #### Info page:
