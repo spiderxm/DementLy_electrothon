@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484415251945",
+    "project_id": "demently-e1cd4",
+    "storage_bucket": "demently-e1cd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484415251945:android:9c44380627c3c4dee05778",
+        "android_client_info": {
+          "package_name": "com.dhriti.DementLy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484415251945-vbp3icq27ge9pnldki830b6m87vibc8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVp5M9ADBf8EFLLDueUzAY4BekjnzqKpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484415251945-vbp3icq27ge9pnldki830b6m87vibc8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
