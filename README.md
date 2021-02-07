@@ -30,23 +30,16 @@ The App starts with a registration portal, once registered, the user will input 
 
 <br>
 
-#### Financials page:
+#### Login And Details Page:
 
-<img src="Financials1.jpeg"  height="200" width="100" margin="20" >
+<img src="l1.jpeg"  height="200" width="100" >
 
-<img src="Financials2.jpeg"  height="200" width="100" >
+<img src="l2.jpeg"  height="200" width="100" >
 
-<img src="Financials3.jpeg"  height="200" width="100" >
-<br>
+#### People Page:
 
-#### Financials page:
+<img src="people1.jpeg"  height="200" width="100" >
 
-<img src="Financials1.jpeg"  height="200" width="100" margin="20" >
-
-<img src="Financials2.jpeg"  height="200" width="100" >
-
-<img src="Financials3.jpeg"  height="200" width="100" >
-<br>
 
 #### Credentials page:
 
@@ -57,10 +50,14 @@ The App starts with a registration portal, once registered, the user will input 
 <img src="Credentials3.jpeg"  height="200" width="100" >
 
 
-#### People Page:
+#### Financials page:
 
-<img src="people1.jpeg"  height="200" width="100" >
+<img src="Financials1.jpeg"  height="200" width="100" margin="20" >
 
+<img src="Financials2.jpeg"  height="200" width="100" >
+
+<img src="Financials3.jpeg"  height="200" width="100" >
+<br>
 
 
 ## Built With
