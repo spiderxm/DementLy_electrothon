@@ -16,6 +16,23 @@ Our App features pages like People, To- do lists, Credentials, Financials so tha
 The App encompasses technologies like Flutter, Dart, Firebase and Microsoft Azure. 
 The App starts with a registration portal, once registered, the user will input all the relevant information which will be stored in the firebase. It also includes a voice recognition system which will automatically convert speech to text and the data will be stored. Furthermore it envelops a Face Recognition model which will scan and tell the identity of the person, helping them to remember all the lost memories.
 
+#### Info page:
+
+<img src="Financials1.jpeg"  height="200" width="100" margin="20" >
+
+<img src="Financials2.jpeg"  height="200" width="100" >
+
+<img src="Financials3.jpeg"  height="200" width="100" >
+<br>
+
+#### Financials page:
+
+<img src="Financials1.jpeg"  height="200" width="100" margin="20" >
+
+<img src="Financials2.jpeg"  height="200" width="100" >
+
+<img src="Financials3.jpeg"  height="200" width="100" >
+<br>
 
 #### Financials page:
 
