@@ -19,25 +19,25 @@ The App starts with a registration portal, once registered, the user will input 
 
 #### Financials page:
 
-<img src="images\Financials1.jpeg"  height="200" width="100" margin="20" >
+<img src="Financials1.jpeg"  height="200" width="100" margin="20" >
 
-<img src="images\Financials2.jpeg"  height="200" width="100" >
+<img src="Financials2.jpeg"  height="200" width="100" >
 
-<img src="images\Financials3.jpeg"  height="200" width="100" >
+<img src="Financials3.jpeg"  height="200" width="100" >
 <br>
 
 #### Credentials page:
 
-<img src="images\Credentials1.jpeg"  height="200" width="100" >
+<img src="Credentials1.jpeg"  height="200" width="100" >
 
-<img src="images\Credentials2.jpeg"  height="200" width="100" >
+<img src="Credentials2.jpeg"  height="200" width="100" >
 
-<img src="images\Credentials3.jpeg"  height="200" width="100" >
+<img src="Credentials3.jpeg"  height="200" width="100" >
 
 
 #### People Page:
 
-<img src="images\people1.jpeg"  height="200" width="100" >
+<img src="people1.jpeg"  height="200" width="100" >
 
 
 
