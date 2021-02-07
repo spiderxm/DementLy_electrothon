@@ -18,11 +18,16 @@ The App starts with a registration portal, once registered, the user will input 
 
 #### Info page:
 
-<img src="Financials1.jpeg"  height="200" width="100" margin="20" >
+<img src="info1.jpeg"  height="200" width="100" margin="20" >
 
-<img src="Financials2.jpeg"  height="200" width="100" >
+<img src="info2.jpeg"  height="200" width="100" >
 
-<img src="Financials3.jpeg"  height="200" width="100" >
+<img src="info3.jpeg"  height="200" width="100" >
+
+<img src="info4.jpeg"  height="200" width="100" margin="20" >
+
+<img src="info5.jpeg"  height="200" width="100" >
+
 <br>
 
 #### Financials page:
